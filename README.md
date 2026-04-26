@@ -40,7 +40,9 @@ An end-to-end AI agent that automates candidate discovery, engagement, and ranki
 
 ## Architecture Diagram
 
-![Architecture](AI_Talent_Scouting_Agent_Architecture.png)
+<p align="center">
+  <img src="AI_Talent_Scouting_Agent_Architecture.png" width="700"/>
+</p>
 
 ---
 
