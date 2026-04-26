@@ -34,4 +34,17 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+## Sample Input & Output
+
+### Sample Input
+We are hiring a Data Analyst in Hyderabad with 2+ years of experience. The candidate should be strong in Python, SQL, Power BI, and data visualization.
+
+### Sample Output
+- Top Candidate: Rahul Sharma  
+- Match Score: 75%  
+- Interest Score: 80%  
+- Final Score: 76.75%  
+
+The system ranks candidates based on skill match and simulated interest level, providing recruiter-ready recommendations.
+
 Note: If the live app is slow or temporarily unavailable due to API limits, please run the project locally using the steps above.
