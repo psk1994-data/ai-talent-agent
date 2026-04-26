@@ -32,4 +32,4 @@ An end-to-end AI agent that automates candidate discovery, engagement, and ranki
 pip install -r requirements.txt
 streamlit run app.py
 
-> **Note:** If the live app is slow or temporarily unavailable due to API limits, please run the project locally using the steps above.
+Note:If the live app is slow or temporarily unavailable due to API limits, please run the project locally using the steps above.
