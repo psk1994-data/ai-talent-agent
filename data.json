@@ -1,0 +1,22 @@
+[
+  {"name": "Rahul Sharma", "role": "Data Analyst", "skills": ["Python", "SQL", "Power BI"], "experience": 2, "location": "Hyderabad"},
+  {"name": "Anjali Verma", "role": "Business Analyst", "skills": ["Excel", "SQL", "Data Analysis"], "experience": 1, "location": "Bangalore"},
+  {"name": "Kiran Reddy", "role": "ML Engineer", "skills": ["Python", "Machine Learning", "NLP"], "experience": 3, "location": "Hyderabad"},
+  {"name": "Sneha Iyer", "role": "Data Analyst", "skills": ["Excel", "Power BI", "SQL"], "experience": 2, "location": "Chennai"},
+  {"name": "Arjun Patel", "role": "Data Scientist", "skills": ["Python", "SQL", "Data Science"], "experience": 2, "location": "Mumbai"},
+  {"name": "Priya Singh", "role": "Data Analyst", "skills": ["Data Analysis", "Excel", "SQL"], "experience": 1, "location": "Delhi"},
+  {"name": "Vikram Kumar", "role": "ML Engineer", "skills": ["Python", "Machine Learning", "Data Science"], "experience": 4, "location": "Pune"},
+  {"name": "Neha Gupta", "role": "BI Analyst", "skills": ["Power BI", "Excel", "Data Visualization"], "experience": 2, "location": "Noida"},
+  {"name": "Rohit Das", "role": "Database Analyst", "skills": ["SQL", "Database Management", "Excel"], "experience": 3, "location": "Kolkata"},
+  {"name": "Pooja Nair", "role": "AI Engineer", "skills": ["Python", "NLP", "Deep Learning"], "experience": 3, "location": "Kochi"},
+  {"name": "Amit Joshi", "role": "Reporting Analyst", "skills": ["Excel", "Data Analysis", "Reporting"], "experience": 1, "location": "Jaipur"},
+  {"name": "Divya Menon", "role": "BI Analyst", "skills": ["SQL", "Power BI", "Data Visualization"], "experience": 2, "location": "Bangalore"},
+  {"name": "Sandeep Yadav", "role": "ML Engineer", "skills": ["Python", "SQL", "Machine Learning"], "experience": 3, "location": "Hyderabad"},
+  {"name": "Meena Kapoor", "role": "Business Analyst", "skills": ["Excel", "SQL", "Business Analysis"], "experience": 2, "location": "Delhi"},
+  {"name": "Ravi Teja", "role": "Data Scientist", "skills": ["Python", "Data Science", "NLP"], "experience": 3, "location": "Hyderabad"},
+  {"name": "Kavya R", "role": "Reporting Analyst", "skills": ["Power BI", "Excel", "Reporting"], "experience": 1, "location": "Chennai"},
+  {"name": "Manoj Kumar", "role": "Database Analyst", "skills": ["SQL", "Database Management", "Python"], "experience": 3, "location": "Pune"},
+  {"name": "Shreya Sen", "role": "Data Analyst", "skills": ["Data Analysis", "Excel", "Power BI"], "experience": 2, "location": "Kolkata"},
+  {"name": "Tarun Jain", "role": "AI Engineer", "skills": ["Python", "Machine Learning", "Deep Learning"], "experience": 4, "location": "Delhi"},
+  {"name": "Nikhil Gupta", "role": "Data Analyst", "skills": ["SQL", "Excel", "Data Analysis"], "experience": 2, "location": "Noida"}
+]
